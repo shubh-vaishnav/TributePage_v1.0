@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: rgb(36, 181, 181);
+}
+.title{
+    font-size: 35px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    margin-right: 25px;
+}
+
+.menu button{
+    font-size: 14px;
+    padding: 10px;
+    background-color: rgb(18, 138, 138);
+}
+
+.menu button a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.info_section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    text-align: justify;
+}

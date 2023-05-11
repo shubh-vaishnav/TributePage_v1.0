@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Pixels&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: rgb(148, 228, 228);
+    border: 10px solid black;
+    min-height: 100vh;
+}
+.content{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.main_section{
+    display: flex;
+    margin-top: 150px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(36, 181, 181);
+    padding: 20px;
+}
+
+.image_container img{
+    width: 300px;
+    height: 340px;
+    border-radius: 60px;
+}
+
+.main_section h1{
+    font-size: 60px;
+    text-transform: uppercase;
+    font-weight: bold;
+    /* font-family: 'Rubik Pixels', cursive; */
+    
+}
+.main_section h1:hover{
+    color: rgb(114, 103, 103);
+}
+
+.main_section h4{
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.main_section .menu{
+    margin-top: 20px;
+   float: left;
+}
+
+span{
+    font-size: 17px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.span2{
+    font-size: 17px;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+}
+
+.main_section .menu button{
+    font-size: 16px;
+    padding: 10px;
+    margin: auto;
+    background-color: rgb(18, 138, 138);
+}
+.main_section .menu button a{
+    color: #fff;
+    text-decoration: none;
+}
+
+
