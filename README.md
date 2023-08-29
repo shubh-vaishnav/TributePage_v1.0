@@ -4,7 +4,9 @@ The HTML structure provides the content, while CSS styles add visual appeal, mak
 
 Screenshots:
 
-![pic1](https://github.com/shubh-vaishnav/TributePage_v1.0/assets/130170546/34e86b26-1d66-4465-89c9-76c9fbf60594)
+![pic1](https://github.com/shubh-vaishnav/TributePage_v1.0/assets/130170546/021c8dc8-742a-44af-b306-ebe1fc32976c)
 
-![pic2](https://github.com/shubh-vaishnav/TributePage_v1.0/assets/130170546/36b0beec-21b9-4d3c-9886-27cb82f3d7e7)
+![pic2](https://github.com/shubh-vaishnav/TributePage_v1.0/assets/130170546/e7269ecc-49df-4830-b822-5cfe8ec426d2)
+
+
 
